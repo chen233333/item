@@ -1,0 +1,3 @@
+index账号密码为aaa
+admin账号密码为hzj
+数据库密码为12345
